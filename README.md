@@ -50,6 +50,6 @@ It's a good chance for me to revise course.Keeping the name&function of the prop
 2. Building up a App gets me a sense of achievement, especilly making it totally by my hand.
 3. But the lighting, in other words,the Rendering showing a new world I have to explore further.Some specialized terminology can confused me for a long time. Such as the Render path, GUI, Shader are not so easy to understand.
 
-![](.\Screenshot_01.jpg)
+![](./Screenshot_01.jpg)
 
-![](.\Screenshot_02.jpg)
+![](./Screenshot_02.jpg)
